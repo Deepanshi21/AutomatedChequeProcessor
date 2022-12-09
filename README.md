@@ -36,7 +36,7 @@
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/84037608/191278183-bdcb68ec-95c9-46bc-aba9-94c1d4740e31.png)
 
-![Screenshot (23)](https://user-images.githubusercontent.com/84037608/191279261-b9db5440-310a-4d0f-a300-da3a64dd76e9.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/79203522/206662596-05990c08-60dc-46be-9b22-153047a260b3.png)
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/84037608/191279304-d73410b7-f218-47b6-9cad-7e5830d4ff28.png)
 
