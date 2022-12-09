@@ -1,7 +1,6 @@
 # **ChecQPro - Automated Cheque Processing and Fraud Detection**
 
-**INTRODUCTION:** Through this project, we are aiming to automate the process of cheque processing. In order to perform the task of cheque verification, we developed
-a tool which acquires the cheque leaflet key components, essential for the task of cheque clearance using image processing and deep learning methods. These components include the bank branch code, cheque number, legal as well as courtesy amount, cheque date, account number, and signature patterns. 
+**INTRODUCTION:** Through this project, we are aiming to automate the process of cheque processing. In order to perform the task of cheque verification, we have developed a tool which acquires the cheque leaflet key components, essential for the task of cheque clearance using image processing and deep learning methods. These components include the bank branch code, cheque number, legal as well as courtesy amount, cheque date, account number, and signature patterns. 
 
 ## **Screenshots:**
 
@@ -42,6 +41,7 @@ a tool which acquires the cheque leaflet key components, essential for the task 
 ![Screenshot (24)](https://user-images.githubusercontent.com/84037608/191279304-d73410b7-f218-47b6-9cad-7e5830d4ff28.png)
 
 ![Screenshot (25)](https://user-images.githubusercontent.com/84037608/191278208-9daf47b9-1ad7-46c0-91cc-5a92c8132d62.png)
+
 ### **MongoDB Database:**
 
 ![db](https://user-images.githubusercontent.com/58003520/191287127-c56ebbe3-fbce-4f16-8b22-ec4a82368648.jpg)
