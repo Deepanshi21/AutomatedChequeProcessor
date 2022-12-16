@@ -80,11 +80,9 @@ Tested the system:
     
 ## ChecQPro Express Application:
   - This Flask app uses the ChecQPro Application as the **Frontend**, **Backend** and **Database** of the project.
-  - [Repository Link](https://github.com/Psyphon361/ChecQPro)
-  
   
 #Please find the working video here:
-
+https://drive.google.com/drive/folders/1mE3AYGGbV-LOd1vyaTXn13An6KXTqVv7?usp=share_link
   
   
   
